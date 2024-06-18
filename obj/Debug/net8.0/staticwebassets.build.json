@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "m3bQEVGM9TtErHGFUmf2agVNBZiPuV48w6T7BdmbP4A=",
+  "Source": "Projeto_Web_PH",
+  "BasePath": "_content/Projeto_Web_PH",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web_PH\\wwwroot",
+      "Source": "Projeto_Web_PH",
+      "ContentRoot": "D:\\Full-Steck\\maio - 16-05-2024 Codificação para Back-End - QO_FULLST_LOJ_232T31 - QUA.PFS.2023.034\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web_PH\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_PH",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Full-Steck\\maio - 16-05-2024 Codificação para Back-End - QO_FULLST_LOJ_232T31 - QUA.PFS.2023.034\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web_PH\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web_PH",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Full-Steck\\maio - 16-05-2024 Codificação para Back-End - QO_FULLST_LOJ_232T31 - QUA.PFS.2023.034\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web_PH\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_PH",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Full-Steck\\maio - 16-05-2024 Codificação para Back-End - QO_FULLST_LOJ_232T31 - QUA.PFS.2023.034\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web_PH\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Projeto_Web_PH.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Projeto_Web_PH.props",
+      "PackagePath": "build\\Projeto_Web_PH.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Projeto_Web_PH.props",
+      "PackagePath": "buildMultiTargeting\\Projeto_Web_PH.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Projeto_Web_PH.props",
+      "PackagePath": "buildTransitive\\Projeto_Web_PH.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
